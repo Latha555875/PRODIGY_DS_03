@@ -135,4 +135,10 @@ plt.show()
 
 This guide outlines the key steps for loading, cleaning, analyzing, and building a decision tree classifier using the bank dataset. The decision tree model helps predict the likelihood of a target variable, providing valuable insights for further decision-making.
 
+**License**
 
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+**Contact Information**
+
+For any queries or issues, please contact Latha at pulicheralalatha121@gmail.com
